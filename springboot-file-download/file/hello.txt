@@ -1,0 +1,1 @@
+This is the template for file which is going to be downloaded from the server.
